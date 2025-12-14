@@ -28,5 +28,5 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/yourusername/system_info_api.git
-cd system_info_api
+git clone https://github.com/yourusername/systeminfoapi.git
+cd systeminfoapi
